@@ -13,7 +13,7 @@ from __Manipal Academy of Higher Education__:european_castle:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8551799/veerendra-bhadrachalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8551799/veerendra-bhadrachalam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8551799/veerendra-bhadrachalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8551799/veerendra-bhadrachalam" height="30" width="40" /></a>
 <a href="https://kaggle.com/veer06b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="veer06b" height="30" width="40" /></a>
 <a href="https://fb.com/bhadra.sarvan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bhadra.sarvan" height="30" width="40" /></a>
 <a href="https://instagram.com/veer06_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="veer06_" height="30" width="40" /></a>
